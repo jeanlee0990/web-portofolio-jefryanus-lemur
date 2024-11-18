@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #F9FAFB;
+    color: #111827;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  @media (max-width: 768px) {
+    header {
+      padding: 3rem 1rem;
+    }
+  
+    h1 {
+      font-size: 2.5rem;
+    }
+  }
+  
